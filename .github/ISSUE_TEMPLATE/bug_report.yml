@@ -1,0 +1,73 @@
+name: Bug Report
+description: Report a bug or crash.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug!
+
+        Before submitting:
+        - Use the latest version.
+        - Check if the issue already exists.
+        - Include logs if available.
+
+  - type: input
+    id: version
+    attributes:
+      label: Modpack Version
+      placeholder: "26.2-1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft Version
+      placeholder: "26.2"
+
+  - type: dropdown
+    id: launcher
+    attributes:
+      label: Launcher
+      options:
+        - Modrinth App
+        - Prism Launcher
+        - CurseForge
+        - MultiMC
+        - Official Launcher
+        - Other
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Crash Log / latest.log
+      description: Upload your crash report or latest.log here.
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (Optional)
