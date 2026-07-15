@@ -6,6 +6,64 @@ The format is based on **Keep a Changelog**, and versions follow the Minecraft v
 
 ---
 
+# 🔧 ContentCreatorsTool 26.2-1.1.0
+
+[Download From Modrinth](https://modrinth.com/modpack/contentcreatorstool/version/26.2-1.1.0)
+
+## 🚀 Update
+
+This update focuses on improving stability, compatibility, and the overall user experience. A large number of mods, resource packs, and shaders have been updated, along with several fixes and quality-of-life improvements.
+
+## 🔄 Updates
+
+- ⬆️ Updated a large number of mods
+- 🎨 Updated bundled resource packs
+- ✨ Updated shaders
+- 🔧 General compatibility and stability improvements
+
+## 🔄 Changes
+
+### 🛠️ Fixes
+
+- Fixed an issue where the **F3/Debug Menu** would not appear due to conflicts with certain mods
+- Fixed various configuration issues
+- Improved overall compatibility and pack stability
+
+### 🆕 New
+
+- 🐛 Added an official **GitHub Issue Tracker** for reporting bugs, crashes, and feature requests
+- 🧪 Added groundwork and configuration for an upcoming feature currently in testing
+
+## ⚠️ Important
+
+Please **backup your worlds, settings, schematics, screenshots, recordings, and projects before updating**.
+
+If you encounter any issues after updating, please report them through the new GitHub Issue Tracker with your latest log or crash report.
+
+## 🚧 Known Information
+
+- A small number of mods are still awaiting full Minecraft 26.2 compatibility
+- Some features currently in testing will be introduced in future updates
+- Additional improvements and creator-focused features are planned for upcoming releases
+
+---
+
+This update continues refining **ContentCreatorsTool** by restoring more functionality, improving stability, and preparing the modpack for future features and enhancements.
+
+## What's Changed
+* Add BSD 3-Clause License to the project by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/1
+* Add NOTICE file for ContentCreatorsTool by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/2
+* Update CHANGELOG.md with version history by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/3
+* Add bug report issue template by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/4
+* Add configuration for issue template with contact link by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/6
+* Add feature request issue template by @MistXrageYT in https://github.com/MistXrageYT/ContentCreatorsTool/pull/5
+
+## New Contributors
+* @MistXrageYT made their first contribution in https://github.com/MistXrageYT/ContentCreatorsTool/pull/1
+
+**Full Changelog**: https://github.com/MistXrageYT/ContentCreatorsTool/commits/Update
+---
+
 # [26.2-1.0.0] - Stable
 
 ### 🎉 Stable Release
