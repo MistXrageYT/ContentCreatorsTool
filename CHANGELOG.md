@@ -5,6 +5,60 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🔧 ContentCreatorsTool 26.2-1.2.0
+
+## 🚀 Update
+
+This update introduces new creator-focused features, visual improvements, and quality-of-life enhancements. Several mods, resource packs, and shaders have been updated, while stability has been improved through additional fixes and configuration changes.
+
+## 🔄 Updates
+
+- ⬆️ Updated a large number of mods
+- 🎨 Updated bundled resource packs
+- ✨ Updated shaders
+- 🔧 General compatibility and stability improvements
+
+## ➕ New Additions
+
+- 🎨 Added **STONEBORN UI Overhaul** resource pack
+- 🗺️ Added **Xaero's World Map**
+- 📦 Added **Packed Packs**
+
+## 🔄 Changes
+
+### ✅ Re-Added / Re-Enabled
+
+- WorldEdit
+- WorldEdit CUI
+
+### 🛠️ Fixes
+
+- Fixed various configuration issues
+- Improved overall compatibility and stability
+- Changed **Flashback** export file naming for better organization
+
+### ⚙️ Configuration Changes
+
+- ❌ Removed **Main Menu Credits** after extensive testing confirmed it could occasionally cause game crashes
+- 🗑️ Removed the **Main Menu Credits** configuration files
+- 🎮 Changed the default **Bedrock Hotbar** layout to match Java Edition, allowing players to choose their preferred hotbar style
+
+## ⚠️ Important
+
+Please **backup your worlds, settings, schematics, screenshots, recordings, and projects before updating**.
+
+If you encounter any issues after updating, please report them through the official **GitHub Issue Tracker**.
+
+## 🚧 Known Information
+
+- A small number of mods are still awaiting full Minecraft 26.2 compatibility
+- Additional creator-focused features are currently being tested and will be added in future updates
+- More improvements and optimizations are planned for upcoming releases
+
+---
+
+This update continues refining **ContentCreatorsTool** with new creator tools, improved customization, enhanced stability, and a better overall experience for Minecraft 26.2.
+---
 
 # 🔧 ContentCreatorsTool 26.2-1.1.0
 
