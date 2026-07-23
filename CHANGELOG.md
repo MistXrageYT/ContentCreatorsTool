@@ -5,6 +5,58 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🔧 ContentCreatorsTool 26.2-1.3.0
+
+## 🚀 Feature Update
+
+The features that have been in testing are finally here! This update introduces several new quality-of-life mods, fresh shader options, and restores a fan-favorite feature to further improve the ContentCreatorsTool experience.
+
+## 🔄 Updates
+
+- ⬆️ Updated a large number of mods
+- 🎨 Updated bundled resource packs
+- ✨ Updated bundled shaders
+- 🔧 General compatibility, stability, and performance improvements
+
+## ➕ New Additions
+
+### 🆕 Mods
+
+- Centered Crosshair
+- Inventory Item Groups
+- Elytra Contrails Mod
+
+### ✨ Shaders
+
+- I Like Vanilla
+- Lumina Shader – Event Horizon
+
+## ✅ Re-Added / Re-Enabled
+
+- Cherished Worlds
+
+## 🔄 Changes
+
+- Continued improvements to overall compatibility and stability
+- Refined default configurations
+- Additional quality-of-life improvements throughout the modpack
+
+## ⚠️ Important
+
+Please **backup your worlds, settings, schematics, screenshots, recordings, and projects before updating**.
+
+If you encounter any issues after updating, please report them through the official GitHub Issue Tracker.
+
+## 🚧 Known Information
+
+- Some included mods may continue receiving updates for Minecraft 26.2
+- Additional creator-focused features and improvements are planned for future updates
+- Further optimizations and compatibility updates will continue as the Minecraft mod ecosystem evolves
+
+---
+
+This update marks the arrival of several **long-awaited features** that have been extensively tested, bringing even more customization, visual improvements, and quality-of-life enhancements to **ContentCreatorsTool**.
+---
 # 🔧 ContentCreatorsTool 26.2-1.2.0
 
 ## 🚀 Update
