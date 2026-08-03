@@ -5,6 +5,72 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🚀 ContentCreatorsTool 26.2-2.0.0-beta
+
+## ⚠️ Major Beta Update
+
+The next generation of **ContentCreatorsTool** is here! After extensive testing, a brand-new set of optimization technologies has been integrated to improve performance, world loading, rendering, and overall gameplay responsiveness.
+
+This update focuses heavily on maximizing performance while maintaining compatibility for creators, builders, and technical players. As this is a **major beta release**, some mods may still be replaced, removed, or adjusted based on further testing and community feedback.
+
+## 🔄 Updates
+
+- ⬆️ Updated a large number of mods
+- 🎨 Updated bundled resource packs
+- ✨ Updated bundled shaders
+- 🔧 Improved overall compatibility and stability
+- ⚡ Continued optimization across the entire modpack
+
+## ➕ New Additions
+
+### 🚀 Performance & Optimization
+
+- Nvidium
+- RailOptimization
+- Gnetum
+- Particle Core
+- AsyncParticles
+- C2ME OpenCL Acceleration Module
+- Structure Layout Optimizer
+- Fast Noise
+- Ixeris
+
+## ⚙️ Changes
+
+- ⌨️ Updated default keybinds for **Xaero's World Map**
+- ⌨️ Updated default keybinds for **Xaero's Minimap**
+- 🛠️ Refined default configurations for improved usability
+- ⚡ Improved overall performance and responsiveness throughout the modpack
+
+## ⚠️ Important
+
+Please **backup your worlds, settings, schematics, recordings, screenshots, and projects before updating**.
+
+This is a **major beta release**. Some included mods may be removed, replaced, or further configured as testing continues. Performance improvements may vary depending on your hardware, drivers, and operating system.
+
+## ℹ️ C2ME OpenCL Notice
+
+When creating or loading a world, you may briefly see a message similar to:
+
+```text
+Compiling INTERPOLATOR_PREFILL for minecraft:overworld on OpenCL Device...
+```
+
+This is **normal behavior** from the **C2ME OpenCL Acceleration Module** and **is not an error or crash**.
+
+The mod is compiling OpenCL kernels for your GPU to accelerate certain world-generation tasks. This process usually only takes a few seconds and may occur the first time you create or load a world after installing or updating the modpack.
+
+## 🚧 Known Information
+
+- Some optimization mods are still actively evolving for Minecraft 26.2
+- Certain features may continue to receive configuration changes in future updates
+- Additional optimizations, quality-of-life improvements, and creator-focused features are already in development
+
+---
+
+This release marks the beginning of the **2.0 generation of ContentCreatorsTool**, introducing the largest optimization update yet. More refinements, compatibility improvements, and new features will continue to arrive throughout the beta cycle as development progresses.
+
+---
 # 🔧 ContentCreatorsTool 26.2-1.3.0
 
 ## 🚀 Feature Update
