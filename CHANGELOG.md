@@ -5,6 +5,89 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+
+# 🚀 ContentCreatorsTool 26.2-2.0.0 — Stable Release
+
+**🎉 26.2-2.0.0 is officially stable!**
+
+After testing the 2.x beta builds, ContentCreatorsTool 26.2-2.0.0 is now ready as the **final stable release for Minecraft 26.2**.
+
+## 🔄 Updates
+
+* 🔧 Updated pretty much **all mods** to their latest compatible versions
+* 📦 Updated the **resource packs**
+* 🎨 Updated the **shaders**
+* 🧵 Updated **Fabric Loader to 0.19.5**
+* ⚙️ Various compatibility, performance, and stability improvements
+
+## ⚠️ Known Issue
+
+There is currently a known issue where the game **may crash while exiting Minecraft**.
+
+I'm currently investigating the cause and working on a fix.
+
+If you experience this issue, don't panic — **your world should not be affected**, but please make sure you have a recent backup.
+
+## 💾 Important — Back Up Your Worlds Before Updating
+
+> ⚠️ **Please back up your important worlds before updating to 26.2-2.0.0.**
+
+Although this release has been tested, **mod updates, Fabric updates, and configuration changes can sometimes cause unexpected problems**, including crashes when loading or exiting a world.
+
+### 🛡️ Recommended Backup Steps
+
+Before updating:
+
+1. 🗂️ **Close Minecraft completely.**
+2. 💾 Make a copy of your **`saves`** folder.
+3. 📁 Store the backup somewhere **outside your Minecraft instance**.
+4. 🔒 Keep the backup until you've confirmed the new version works correctly.
+5. ✅ Only delete the backup once you're confident your worlds are safe.
+
+**Do not rely on the modpack itself to protect your worlds.** Keep your own backup of any world you care about.
+
+> ⚠️ **Especially important for this release:** Minecraft may currently crash while exiting the game. I'm investigating this issue, so having a recent world backup is strongly recommended.
+
+If something goes wrong, **do not continue playing on the only copy of an important world** until you've made a backup.
+
+## 🌲 What's Next — Minecraft 26.3
+
+This is the **final ContentCreatorsTool update for Minecraft 26.2**, marking the **second major drop of the year**.
+
+The next development cycle will begin with a **beta release for Minecraft 26.3 — Wilderness Bound**.
+
+### Coming in 26.3
+
+* 🧩 New Quality-of-Life mods
+* ✨ New features and improvements
+* ⚙️ Further optimization and refinement
+* 🎨 More visual and customization improvements
+
+But that's not all...
+
+I'm also working on a **completely new modpack** focused on enhancing the vanilla Minecraft experience.
+
+The goal is to keep Minecraft feeling **vanilla**, while expanding the world with things like:
+
+* 🌍 New biomes
+* 🏔️ New world-generation features
+* 🏛️ New structures
+* 🌿 More exploration content
+* ✨ Vanilla-friendly improvements
+
+More details about that project will be revealed later.
+
+## 📌 Final Note
+
+Thank you to everyone who has been using and testing **ContentCreatorsTool 26.2** throughout its development.
+
+**26.2 is officially finished.**
+
+Now we're moving on to **26.3 — Wilderness Bound.** 🌲
+
+See you in the next drop!
+
+
 # 🚀 ContentCreatorsTool 26.2-2.0.0-beta
 
 ## ⚠️ Major Beta Update
