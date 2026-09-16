@@ -5,6 +5,119 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🌲 ContentCreatorsTool 26.3-1.0.1-beta — Wilderness Bound
+![Wilderness Bound](https://cdn.modrinth.com/data/cached_images/ddde6dc539587f6880dfcdab761c89b39b5e9bfa_0.webp)
+
+**🚧 The 26.3 beta begins!**
+
+Welcome to the next major ContentCreatorsTool update.
+
+Minecraft has moved to **26.3 — Wilderness Bound**, and ContentCreatorsTool is moving with it.
+
+This is the beginning of the **third major drop of the year**, bringing updated mods, packs, shaders, and a new round of changes as we continue improving the pack.
+
+## 🔄 Updates
+
+* 🧱 Updated the **base game to Minecraft 26.3**
+* 🔧 Updated a large number of mods to their **26.3-compatible versions**
+* 📦 Updated the **resource packs**
+* 🎨 Updated the **shaders**
+* 🛠️ Various compatibility and configuration updates
+
+## ⛔ Disabled Mods
+
+The following mods are currently **disabled** in this beta:
+
+* Make Bubbles Pop
+* YetAnotherConfigLib (YACL)
+* MaLiLib
+* Mod Menu
+* More Culling
+* Mouse Wheelie
+* Nether Portal Fix
+* Not Enough Animations
+* Not Enough Crashes
+* Nvidium
+* OptiGUI
+* Particle Core
+* Particle Effects
+* Polytone
+* Rail Optimization
+* Resourceful Config
+* Scribble
+* Searchables
+* Shulker Box Tooltip
+* Simply No Shading
+* 3D Skin Layers
+* Skyboxify
+* Smooth Scroll
+* Spark
+* Status Effect Bars
+* Structure Layout Optimizer
+* TCDCommons
+* Tweakeroo
+* Visuality
+* Wavy Capes
+* WorldEdit CUI
+* WorldEdit
+
+**And potentially more as compatibility testing continues.**
+
+> ⚠️ **Disabled does not necessarily mean permanently removed.**
+>
+> Some of these mods may return later once they are updated, tested, or confirmed to work properly with Minecraft 26.3.
+
+## 🧪 Beta Notice
+
+**26.3-1.0.1-beta is an early beta release.**
+
+With a new Minecraft version comes a new compatibility cycle, so some features, mods, configurations, and resource packs may still change during development.
+
+Expect more changes throughout the 26.3 beta cycle.
+
+## 💾 Important — Back Up Your Worlds
+
+> ⚠️ **Please back up your important worlds before updating to 26.3-1.0.1-beta.**
+
+A Minecraft version change can introduce compatibility issues with mods, configurations, and world data.
+
+### 🛡️ Recommended Backup Steps
+
+Before updating:
+
+1. 🗂️ **Close Minecraft completely.**
+2. 💾 Make a copy of your **`saves`** folder.
+3. 📁 Store the backup somewhere **outside your Minecraft instance**.
+4. 🔒 Keep the backup until you've confirmed the new version works correctly.
+5. ✅ Only delete the backup once you're confident your worlds are safe.
+
+**Do not rely on the modpack itself to protect your worlds.** Keep your own backup of any world you care about.
+
+If something goes wrong, **do not continue playing on the only copy of an important world** until you've made a backup.
+
+## 🐛 Issues & Feedback
+
+If you encounter **a crash, bug, compatibility issue, or anything else that doesn't work as expected**, please report it through the ContentCreatorsTool issue tracker.
+
+**GitHub Issues / Feature Requests:** [ContentCreatorsTool Issue Tracker](https://github.com/MistXrageYT/ContentCreatorsTool/issues?utm_source=chatgpt.com)
+
+You can also use it to suggest **new features or improvements** you'd like to see in the pack.
+
+## 🌲 Wilderness Bound
+
+This update marks the beginning of the **26.3 development cycle**.
+
+More Quality-of-Life mods, new features, improvements, and other changes are planned throughout the beta.
+
+## 📌 Final Note
+
+Now the next chapter begins:
+
+**Minecraft 26.3 — Wilderness Bound.** 🌲
+
+This is only the beginning of the 26.3 beta cycle, so expect more updates, changes, and additions as development continues.
+
+---
 
 # 🚀 ContentCreatorsTool 26.2-2.0.0 — Stable Release
 
