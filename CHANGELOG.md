@@ -5,6 +5,108 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🌲 ContentCreatorsTool 26.3-1.0.1-beta-2
+
+**🔄 Another 26.3 beta update is here!**
+
+The 26.3 compatibility work continues with another round of mod updates, re-additions, configuration fixes, and performance tweaks.
+
+## 🔄 Updated Mods
+
+* 📜 Smooth Scroll
+* 🌐 Nether Portal Fix
+* 💬 Chat Heads
+* 🧵 Fabric API
+* 💡 ScalableLux
+* 🗺️ Xaero's Minimap
+* 🗺️ Xaero's World Map
+* 🎞️ Animatica Refabricated
+* ✨ AsyncParticles
+* 🛠️ Axiom
+* 📦 Clumps
+* 🎛️ Controlling
+* ⚡ ImmediatelyFast
+* 📋 Mod Menu
+* 🔎 Searchables
+* 📦 Shulker Box Tooltip
+* 🎭 [EMF] Entity Model Features
+* 🎨 [ETF] Entity Texture Features
+* 📊 Better Statistics Screen
+* 🧍 3D Skin Layers
+* 🍎 AppleSkin
+* ⚡ Ixeris
+* 🔧 TCDCommons API
+* 🌌 Skyboxify
+* ⚙️ Resourceful Config
+* 🛠️ YetAnotherConfigLib (YACL)
+* 🖥️ OptiGUI
+* 🌍 Lithostitched
+
+### 🔓 Re-added / Re-enabled Mods
+
+Some of the mods above have been **re-added or re-enabled** after receiving updates for Minecraft 26.3.
+
+As more previously disabled mods receive their 26.3 updates and pass testing, they may be brought back in future beta releases.
+
+## 📦 Updated Resource Packs
+
+* ✨ Enchantment Glows
+* 🎨 OreUI Recreation
+* 🍖 [The Food Eating Animation](https://modrinth.com/resourcepack/the-food-eating-animation?utm_source=chatgpt.com)
+
+## ⚙️ Configuration Fixes
+
+* 🛠️ Fixed some configuration issues with the **Iris Shaders** setup.
+* 🎨 Shader-related settings should now work correctly with the modpack configuration.
+
+## ⚡ Performance Tweaks
+
+* 🎮 Tweaked some **video settings** to improve overall FPS and performance.
+* ⚙️ Adjusted several settings while keeping the visual experience close to the intended setup.
+
+## 🧪 Beta Notice
+
+**26.3-1.0.1-beta-2 is still a beta release.**
+
+Minecraft 26.3 compatibility is still being worked on, and mods may continue to be added, removed, disabled, or re-enabled throughout the beta cycle.
+
+If you encounter a **crash, bug, compatibility issue, or anything else that doesn't work as expected**, please report it through the issue tracker.
+
+You can also use the tracker for **feature requests and suggestions**.
+
+**🐛 Issues & Feature Requests:**
+[ContentCreatorsTool Issue Tracker](https://github.com/MistXrageYT/ContentCreatorsTool/issues)
+
+## 💾 Important — Back Up Your Worlds
+
+> ⚠️ **Please back up your important worlds before updating to 26.3-1.0.1-beta-2.**
+
+A beta update can introduce compatibility issues with mods, configurations, and world data.
+
+### 🛡️ Recommended Backup Steps
+
+Before updating:
+
+1. 🗂️ **Close Minecraft completely.**
+2. 💾 Make a copy of your **`saves`** folder.
+3. 📁 Store the backup somewhere **outside your Minecraft instance**.
+4. 🔒 Keep the backup until you've confirmed the new version works correctly.
+5. ✅ Only delete the backup once you're confident your worlds are safe.
+
+**Do not rely on the modpack itself to protect your worlds.** Keep your own backup of any world you care about.
+
+If something goes wrong, **do not continue playing on the only copy of an important world** until you've made a backup.
+
+## 📌 Final Note
+
+The **26.3 beta continues**.
+
+More mods are gradually returning as they receive their Minecraft 26.3 updates, while additional features, QoL improvements, performance tweaks, and fixes are being tested.
+
+**More updates coming soon.** 🌲
+
+---
+
 # 🌲 ContentCreatorsTool 26.3-1.0.1-beta — Wilderness Bound
 ![Wilderness Bound](https://cdn.modrinth.com/data/cached_images/ddde6dc539587f6880dfcdab761c89b39b5e9bfa_0.webp)
 
