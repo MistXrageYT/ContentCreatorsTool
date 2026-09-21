@@ -5,6 +5,103 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🌲 ContentCreatorsTool 26.3-1.0.1-beta-3 — Wilderness Bound
+
+**🚧 Another 26.3 beta update is here!**
+
+The 26.3 beta continues with another round of mod updates, several previously disabled mods returning, updated resource packs and shaders, and some permanent changes.
+
+## 🔄 Updated Mods
+
+* 🛠️ Axiom
+* 🎛️ Controlling
+* ⚙️ Resourceful Config
+* 🎭 Not Enough Animations
+* 🎥 Flashback
+* ✂️ Entity Culling
+* 🛠️ YetAnotherConfigLib (YACL)+
+* 🧵 Fabric API
+
+## 🔓 Updated & Re-added Mods
+
+The following mods have been updated and **re-added/re-enabled** in the pack:
+
+* 🎯 Centered Crosshair
+* 🚂 RailOptimization
+* 📝 Scribble
+* 🦋 Wavy Capes
+* 📊 spark
+* 🌫️ Blur+
+* ✂️ Entity Culling
+* ⏩ kennytvs-epic-force-close-loading-screen-mod-for-fabric
+* 🎭 Not Enough Animations
+* 🪓 Bedrock Hotbar
+* 📦 Inventory Item Groups
+* ✨ Visuality
+
+> 🔄 **More previously disabled mods may return** as soon as compatible updates are available and they pass testing.
+
+## ❌ Permanently Removed
+
+The following mod has been **permanently removed** from ContentCreatorsTool:
+
+* 🌐 **Cubes Without Borders**
+
+This mod will not be returning in future ContentCreatorsTool updates.
+
+## 📦 Updated Resource Packs
+
+* 🌸 Mickey Joe's Flowers!
+* 🪴 Fresh Flower Pots
+* 🎞️ Animated Items
+
+## 🎨 Updated Shaders
+
+* 🌌 Lumina Shader — Event Horizon
+* 🎨 BSL Shaders
+
+## 🧪 Beta Notice
+
+**26.3-1.0.1-beta-3 is still a beta release.**
+
+Minecraft 26.3 compatibility is still being worked on, so mods may continue to be updated, re-added, temporarily disabled, or removed as development continues.
+
+If you encounter a **crash, bug, compatibility issue, or anything else that doesn't work as expected**, please report it through the issue tracker.
+
+You can also use the tracker for **feature requests and suggestions**.
+
+**🐛 Issues & Feature Requests:**
+[ContentCreatorsTool Issue Tracker](https://github.com/MistXrageYT/ContentCreatorsTool/issues?utm_source=chatgpt.com)
+
+## 💾 Important — Back Up Your Worlds
+
+> ⚠️ **Please back up your important worlds before updating to 26.3-1.0.1-beta-3.**
+
+A beta update can introduce compatibility issues with mods, configurations, and world data.
+
+### 🛡️ Recommended Backup Steps
+
+Before updating:
+
+1. 🗂️ **Close Minecraft completely.**
+2. 💾 Make a copy of your **`saves`** folder.
+3. 📁 Store the backup somewhere **outside your Minecraft instance**.
+4. 🔒 Keep the backup until you've confirmed the new version works correctly.
+5. ✅ Only delete the backup once you're confident your worlds are safe.
+
+**Do not rely on the modpack itself to protect your worlds.** Keep your own backup of any world you care about.
+
+If something goes wrong, **do not continue playing on the only copy of an important world** until you've made a backup.
+
+## 🌲 Wilderness Bound
+
+The 26.3 beta continues to take shape.
+
+With more previously disabled mods returning and additional packs and shaders being updated, ContentCreatorsTool is gradually moving toward a more complete 26.3 experience.
+
+**More updates coming soon!** 🌲
+
+---
 # 🌲 ContentCreatorsTool 26.3-1.0.1-beta-2
 
 **🔄 Another 26.3 beta update is here!**
