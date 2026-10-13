@@ -5,6 +5,90 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🌲 ContentCreatorsTool 26.3-1.0.1-beta-7 — Wilderness Bound
+
+**🚧 Another 26.3 beta update is here!**
+
+This update brings another round of mod updates, three previously disabled mods returning, and refreshed resource packs and shaders.
+
+## 🔄 Updated Mods
+
+- ✨ AsyncParticles
+- ⚡ Concurrent Chunk Management Engine (Fabric)
+- 🧵 Fabric API
+- ⚙️ Resourceful Config
+- 🎛️ Controlling
+- 🪶 Elytra Contrails Mod
+- ✨ Enchantment Glows
+- ✂️ Entity Culling
+- 🟣 Fabric Language Kotlin
+- 🌍 Lithostitched
+- 📝 Scribble
+- 🔎 Searchables
+- 📜 Smooth Scrolling
+- 📊 Better Statistics Screen
+- 🔧 TCDCommons API
+
+## 🔓 Updated & Re-added Mods
+
+The following mods have been updated and **re-added/re-enabled**:
+
+- ✨ Particle Core
+- 🎨 Polytone
+- 🔆 Gamma Utils (Fullbright)
+
+More previously disabled mods may return as compatible Minecraft 26.3 versions become available and pass testing.
+
+## 📦 Updated Resource Packs
+
+- 🎵 Fresh Music Discs
+- ⛏️ Fresh Ores and Ingots
+- 🐴 Fresh Animations: Classic Horses
+
+## 🎨 Updated Shaders
+
+- 🌿 I Like Vanilla
+
+## 🧪 Beta Notice
+
+**ContentCreatorsTool 26.3-1.0.1-beta-7 is still a beta release.**
+
+The Minecraft 26.3 compatibility cycle is ongoing, so mods and other pack components may continue to be updated, re-added, temporarily disabled, or removed as development continues.
+
+## 🐛 Issues & Feature Requests
+
+Encounter a crash, bug, compatibility issue, or unexpected behavior? Have an idea for a new feature?
+
+Please report it or share your suggestions through the issue tracker:
+
+**🐛 [ContentCreatorsTool Issues & Feature Requests](https://github.com/MistXrageYT/ContentCreatorsTool/issues)**
+
+## 💾 Important — Back Up Your Worlds
+
+> ⚠️ **Please back up your important worlds before updating to 26.3-1.0.1-beta-7.**
+
+Beta updates and mod changes can introduce compatibility issues with mods, configurations, or world data.
+
+### 🛡️ Recommended Backup Steps
+
+Before updating:
+
+1. 🗂️ **Close Minecraft completely.**
+2. 💾 Make a copy of your Minecraft instance's **`saves` folder**.
+3. 📁 Store the backup somewhere **outside your Minecraft instance**.
+4. 🔒 Keep the backup until you've confirmed that the updated pack works correctly.
+5. ✅ Delete the backup only when you're confident your worlds are safe.
+
+**Do not rely on the modpack itself to protect your worlds.** Keep your own backup of any world you care about.
+
+If something goes wrong, avoid continuing to play on the only copy of an important world until you've secured a backup.
+
+## 🌲 Wilderness Bound
+
+The 26.3 beta continues to evolve with updated mods, returning features, and improvements to the overall Minecraft experience.
+
+**More updates coming soon!** 🌲
+---
 # 🌲 ContentCreatorsTool 26.3-1.0.1-beta-3 — Wilderness Bound
 
 **🚧 Another 26.3 beta update is here!**
