@@ -5,6 +5,85 @@ All notable changes to **ContentCreatorsTool** will be documented in this file.
 The format is based on **Keep a Changelog**, and versions follow the Minecraft version followed by the modpack version.
 
 ---
+# 🔧 ContentCreatorsTool 26.3-1.0.1 — Stable Release
+
+## 🎉 Stable Release Is Here!
+
+After several beta updates, **ContentCreatorsTool is now stable for Minecraft 26.3!**
+
+This release introduces new quality-of-life features, brings back previously disabled mods, updates existing mods, and adds new resource packs. Several changes have also been made to improve the overall experience.
+
+## ➕ New Mods
+- Immersive Hotbar
+- Delete Worlds To Trash
+- Controlify (Controller Support)
+- ModernFix-mVUS
+- Light Overlay
+- Simple Menu
+
+## 🎨 New Resource Pack Additions
+- Ben's Bundles
+- Leggings Fix
+- Pop-out Clocks
+
+## ⬆️ Updated Mods
+- Concurrent Chunk Management Engine (Fabric)
+- Not Enough Crashes
+- Fabric API
+- Collective
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Better Block Entities
+- Essential Mod
+- Gamma Utils (Fullbright)
+- WorldEdit
+- Better Statistics Screen
+- Smooth Scrolling
+- TCDCommons API
+- Wavey Capes
+- 3D Skin Layers
+- AsyncParticles
+- Ixeris
+
+## ♻️ Updated & Re-added Mods
+- Make Bubbles Pop
+- Config Manager
+
+## 🔄 Re-added Mods
+These mods have been re-added after confirming they still work without requiring updates.
+
+- FerriteCore
+- Status Effect Bars
+- Better Mount HUD
+
+## 🔁 Replaced Mods
+- **Fabrishot** has been replaced with **Renice Shot**.
+
+## ❌ Permanently Removed Mods
+- **FastQuit**
+- **Mouse Wheelie** — Removed due to a conflict with Item Scroller's mass-crafting functionality.
+
+## ⚠️ Important — Back Up Your Worlds!
+
+Even though this is a stable release, it's always a good idea to back up your worlds before updating.
+
+**Before updating:**
+1. Close Minecraft completely.
+2. Open your ContentCreatorsTool instance folder.
+3. Copy the `saves` folder.
+4. Store the backup somewhere outside your Minecraft instance.
+5. Keep the backup until you've confirmed everything works correctly.
+
+This helps protect your worlds in case something goes wrong during the update.
+
+## 💚 Thank You!
+
+Thank you for using **ContentCreatorsTool**!
+
+This stable release brings the Minecraft 26.3 version of the pack together after the beta testing period. I hope you enjoy the new additions, restored features, and overall experience.
+
+Have fun creating!
+---
 # 🌲 ContentCreatorsTool 26.3-1.0.1-beta-7 — Wilderness Bound
 
 **🚧 Another 26.3 beta update is here!**
